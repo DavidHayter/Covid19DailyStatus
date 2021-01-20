@@ -7,7 +7,6 @@ import json
 from bs4 import BeautifulSoup as bs
 import requests
 
-
 # Colors
 RED = "\033[31m"
 WHITE = "\033[39m"
